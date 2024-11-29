@@ -38,7 +38,7 @@ module.exports = {
 
   nodes: [
     {
-        name: "ChalresNaig Node",
+        name: "Server",
         host: "lavahatry4.techbyte.host",
         port: 3000,
         password: "NAIGLAVA-dash.techbyte.host",
